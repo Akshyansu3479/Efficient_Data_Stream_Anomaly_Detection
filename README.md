@@ -1,4 +1,8 @@
 # Efficient Data Stream Anomaly Detection
+![alt text](Result1.png)
+![alt text](Result2.png)
+![alt text](Result3.png)
+
 
 ## Project Overview
 This project demonstrates an anomaly detection system that simulates continuous data streams, detects anomalies in real time, and visualizes the results. The data stream can represent metrics such as financial transactions or system measurements, and the system uses the ADWIN algorithm for detecting concept drift and Z-score analysis for anomaly detection.
@@ -74,3 +78,4 @@ python visualize.py
 ### Step 4: Results
 The real-time graph will show the data stream in blue.
 Anomalies will be highlighted with red points in the graph.
+
