@@ -1,7 +1,7 @@
 # Efficient Data Stream Anomaly Detection
-![alt text](Result1.png)
-![alt text](Result2.png)
-![alt text](Result3.png)
+![alt text](Result1.jpg)
+![alt text](Result2.jpg)
+![alt text](Result3.jpg)
 
 
 ## Project Overview
